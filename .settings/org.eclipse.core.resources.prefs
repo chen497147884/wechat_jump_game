@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/common/__init__.py=utf-8
+encoding//src/common/config.py=utf-8
+encoding//src/common/debug.py=utf-8
+encoding//src/common/screenshot.py=utf-8
+encoding//src/wechat_jump.py=utf-8
+encoding//src/wechat_jump_auto.py=utf-8
+encoding//src/wechat_jump_auto_iOS.py=utf-8
+encoding//src/wechat_jump_iOS_py3.py=utf-8
+encoding//src/wechat_jump_py3.py=utf-8
